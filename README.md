@@ -61,7 +61,7 @@ The objective was to explore and analyze user behavior, revenue performance, chu
 
 ## 🧠 Author
 
-**Name:** [Your Name]  
+**Name:** Nachimuthu Chinnadurai 
 **Role:** Data Analyst  
 **Task by:** Matiks  
 
